@@ -2,6 +2,19 @@
 
 This application simulates a Course Scheduler in which students can enroll/unenroll courses and teachers can add/remove courses that they want to teach.
 
+```
+Where files are located in this Repository
+
+1. Javadoc documentation can be found inside FINAL_doc
+2. UML Class Diagram can be found inside FINAL_UML
+3. Source code can be found in FINAL_SourceCode/CourseScheduler/src/com/company	
+	* Input files to generate information can be found at /inputFiles
+	* Comparators within the same Class can be found at /comparators
+	* Plantuml files can be found at /plantuml
+	* Course-related (course and session) implementations can be found at /data/course
+	* Person-related (student, faculty) implementations can be found at /data/person
+```
+
 ## General Requirements for "Person" Information
 
 Everyone (both students and faculties) who attends the university has these following information:
