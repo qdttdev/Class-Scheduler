@@ -2,18 +2,22 @@
 
 This application simulates a Course Scheduler in which students can enroll/unenroll courses and teachers can add/remove courses that they want to teach.
 
-```
-- Where files are located in this Repository -
+---
+#### Where files are located in this Repository
 
-1. Javadoc documentation can be found inside FINAL_doc
-2. UML Class Diagram can be found inside FINAL_UML
-3. Source code can be found in FINAL_SourceCode/CourseScheduler/src/com/company	
-	* Input files to generate information can be found at /inputFiles
-	* Comparators within the same Class can be found at /comparators
-	* Plantuml files can be found at /plantuml
-	* Course-related (course and session) implementations can be found at /data/course
-	* Person-related (student, faculty) implementations can be found at /data/person
-```
+1. Javadoc documentation can be found inside [FINAL_doc](https://github.com/qdttdev/CS4A_Introduction_to_Java/tree/master/FINAL_Javadoc)
+
+2. UML Class Diagram can be found inside [FINAL_UML](https://github.com/qdttdev/CS4A_Introduction_to_Java/tree/master/FINAL_UML)
+
+3. Output files can be found inside [FINAL_SourceCode/CourseScheduler/out/outputFiles/](https://github.com/qdttdev/CS4A_Introduction_to_Java/tree/master/FINAL_SourceCode/CourseScheduler/out/outputFiles)
+
+4. Source code can be found inside [FINAL_SourceCode/CourseScheduler/src/com/company](https://github.com/qdttdev/CS4A_Introduction_to_Java/tree/master/FINAL_SourceCode/CourseScheduler/src/com/company):	
+	* Input files to generate information can be found at [/inputFiles](https://github.com/qdttdev/CS4A_Introduction_to_Java/tree/master/FINAL_SourceCode/CourseScheduler/src/com/company/inputFiles)
+	* Comparators within the same Class can be found at [/comparators](https://github.com/qdttdev/CS4A_Introduction_to_Java/tree/master/FINAL_SourceCode/CourseScheduler/src/com/company/comparators)
+	* Plantuml files can be found at [/plantuml](https://github.com/qdttdev/CS4A_Introduction_to_Java/tree/master/FINAL_SourceCode/CourseScheduler/src/com/company/plantuml)
+	* Course-related (course and session) implementations can be found at [/data/course](https://github.com/qdttdev/CS4A_Introduction_to_Java/tree/master/FINAL_SourceCode/CourseScheduler/src/com/company/data/course)
+	* Person-related (student, faculty) implementations can be found at [/data/person](https://github.com/qdttdev/CS4A_Introduction_to_Java/tree/master/FINAL_SourceCode/CourseScheduler/src/com/company/data/person)
+---
 
 ## General Requirements for "Person" Information
 
