@@ -1,0 +1,68 @@
+
+***********************************************************
+                 SCHEDULED STUDENTS OUTPUT
+-----------------------------------------------------------
+
+Name:           Camille Alfred Emmett
+Email:          cae@gmail.com
+Telephone:      681690
+Address:        IJK St, Mission Viejo, CA, 92692
+Date of birth:  09/01/1998
+GPA:            3.9
+Date start:     09/20/2016
+ID:             S009
+Scheduled:      true
+[
+Course:               CS1A
+Description:          Intro to Computer Science 1
+Class size (min-max): 2-35
+Open seats:           33/35
+Students enrolled:    2
+Cancelled status:     false
+
+[Session Id: 1A123	Available seats: 5/7
+	Instructor:     Zeph Prissy Spalding
+, Session Id: 1A234	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1A345	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1A456	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1A567	Available seats: 7/7
+	Instructor:     N/A
+]]
+
+-----------------------------------------------------------
+
+Name:           Ruthie Bernadine Hanley
+Email:          rbh@gmail.com
+Telephone:      182575
+Address:        JKL St, Mission Viejo, CA, 92692
+Date of birth:  10/01/1998
+GPA:            4.0
+Date start:     10/20/2016
+ID:             S010
+Scheduled:      true
+[
+Course:               CS1A
+Description:          Intro to Computer Science 1
+Class size (min-max): 2-35
+Open seats:           33/35
+Students enrolled:    2
+Cancelled status:     false
+
+[Session Id: 1A123	Available seats: 5/7
+	Instructor:     Zeph Prissy Spalding
+, Session Id: 1A234	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1A345	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1A456	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1A567	Available seats: 7/7
+	Instructor:     N/A
+]]
+
+
+***********************************************************
+

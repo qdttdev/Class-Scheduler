@@ -1,0 +1,27 @@
+
+***********************************************************
+              SCHEDULED COURSE SESSIONS OUTPUT
+-----------------------------------------------------------
+
+Course:               CS1A
+Description:          Intro to Computer Science 1
+Class size (min-max): 2-35
+Open seats:           33/35
+Students enrolled:    2
+Cancelled status:     false
+
+[Session Id: 1A123	Available seats: 5/7
+	Instructor:     Zeph Prissy Spalding
+, Session Id: 1A234	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1A345	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1A456	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1A567	Available seats: 7/7
+	Instructor:     N/A
+]
+
+
+***********************************************************
+
