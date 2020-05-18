@@ -1,0 +1,102 @@
+
+***********************************************************
+                UNSCHEDULED STUDENTS OUTPUT
+-----------------------------------------------------------
+
+Name:           Detta Jude Braxton
+Email:          djb@gmail.com
+Telephone:      753961
+Address:        ABC St, Mission Viejo, CA, 92692
+Date of birth:  01/01/1998
+GPA:            3.1
+Date start:     01/20/2016
+ID:             S001
+Scheduled:      false
+
+-----------------------------------------------------------
+
+Name:           Sadie Krystine Langley
+Email:          skl@gmail.com
+Telephone:      367890
+Address:        BCD St, Mission Viejo, CA, 92692
+Date of birth:  02/01/1998
+GPA:            3.2
+Date start:     02/20/2016
+ID:             S002
+Scheduled:      false
+
+-----------------------------------------------------------
+
+Name:           Wilkie Priscilla Wright
+Email:          wpw@gmail.com
+Telephone:      199373
+Address:        CDE St, Mission Viejo, CA, 92692
+Date of birth:  03/01/1998
+GPA:            3.3
+Date start:     03/20/2016
+ID:             S003
+Scheduled:      false
+
+-----------------------------------------------------------
+
+Name:           Lance Zackery Paget
+Email:          lzp@gmail.com
+Telephone:      363036
+Address:        DEF St, Mission Viejo, CA, 92692
+Date of birth:  04/01/1998
+GPA:            3.4
+Date start:     04/20/2016
+ID:             S004
+Scheduled:      false
+
+-----------------------------------------------------------
+
+Name:           Briscoe Elfreda William
+Email:          bew@gmail.com
+Telephone:      750183
+Address:        EFG St, Mission Viejo, CA, 92692
+Date of birth:  05/01/1998
+GPA:            3.5
+Date start:     05/20/2016
+ID:             S005
+Scheduled:      false
+
+-----------------------------------------------------------
+
+Name:           Jaxton Emma Morse
+Email:          jem@gmail.com
+Telephone:      368020
+Address:        FGH St, Mission Viejo, CA, 92692
+Date of birth:  06/01/1998
+GPA:            3.6
+Date start:     06/20/2016
+ID:             S006
+Scheduled:      false
+
+-----------------------------------------------------------
+
+Name:           Fenton Zaiden Hathway
+Email:          fzh@gmail.com
+Telephone:      144852
+Address:        GHI St, Mission Viejo, CA, 92692
+Date of birth:  07/01/1998
+GPA:            3.7
+Date start:     07/20/2016
+ID:             S007
+Scheduled:      false
+
+-----------------------------------------------------------
+
+Name:           Denny Olyvia Wash
+Email:          dow@gmail.com
+Telephone:      365612
+Address:        HIJ St, Mission Viejo, CA, 92692
+Date of birth:  08/01/1998
+GPA:            3.8
+Date start:     08/20/2016
+ID:             S008
+Scheduled:      false
+
+
+***********************************************************
+

@@ -1,0 +1,5 @@
+CS_1A_Intro to Computer Science 1_CS1A_2_35
+CS_1B_Intro to Computer Science 2_CS1B_2_35
+CS_1C_Intro to Computer Science 3_CS1C_2_35
+CS_1D_Data Structure_CS1D_2_35
+CS_4A_Intro to Java_CS4A_2_35

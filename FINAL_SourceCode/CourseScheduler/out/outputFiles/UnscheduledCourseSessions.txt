@@ -1,0 +1,94 @@
+
+***********************************************************
+            UNSCHEDULED COURSE SESSIONS OUTPUT
+-----------------------------------------------------------
+
+Course:               CS1B
+Description:          Intro to Computer Science 2
+Class size (min-max): 2-35
+Open seats:           35/35
+Students enrolled:    0
+Cancelled status:     true
+
+[Session Id: 1B123	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1B234	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1B345	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1B456	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1B567	Available seats: 7/7
+	Instructor:     N/A
+]
+[]
+
+-----------------------------------------------------------
+
+Course:               CS1C
+Description:          Intro to Computer Science 3
+Class size (min-max): 2-35
+Open seats:           35/35
+Students enrolled:    0
+Cancelled status:     true
+
+[Session Id: 1C123	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1C234	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1C345	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1C456	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1C567	Available seats: 7/7
+	Instructor:     N/A
+]
+[]
+
+-----------------------------------------------------------
+
+Course:               CS1D
+Description:          Data Structure
+Class size (min-max): 2-35
+Open seats:           35/35
+Students enrolled:    0
+Cancelled status:     true
+
+[Session Id: 1D123	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1D234	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1D345	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1D456	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 1D567	Available seats: 7/7
+	Instructor:     N/A
+]
+[]
+
+-----------------------------------------------------------
+
+Course:               CS4A
+Description:          Intro to Java
+Class size (min-max): 2-35
+Open seats:           35/35
+Students enrolled:    0
+Cancelled status:     true
+
+[Session Id: 4A123	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 4A234	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 4A345	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 4A456	Available seats: 7/7
+	Instructor:     N/A
+, Session Id: 4A567	Available seats: 7/7
+	Instructor:     N/A
+]
+[]
+
+
+***********************************************************
+
