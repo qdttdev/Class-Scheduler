@@ -3,7 +3,7 @@
 This application simulates a Course Scheduler in which students can enroll/unenroll courses and teachers can add/remove courses that they want to teach.
 
 ```
-Where files are located in this Repository
+- Where files are located in this Repository -
 
 1. Javadoc documentation can be found inside FINAL_doc
 2. UML Class Diagram can be found inside FINAL_UML
