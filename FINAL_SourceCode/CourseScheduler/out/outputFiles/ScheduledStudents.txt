@@ -22,14 +22,21 @@ Cancelled status:     false
 
 [Session Id: 1A123	Available seats: 5/7
 	Instructor:     Zeph Prissy Spalding
+
+	Student #1: Ruthie Bernadine Hanley	S010
+	Student #2: Camille Alfred Emmett	S009
 , Session Id: 1A234	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1A345	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1A456	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1A567	Available seats: 7/7
 	Instructor:     N/A
+
 ]]
 
 -----------------------------------------------------------
@@ -53,14 +60,21 @@ Cancelled status:     false
 
 [Session Id: 1A123	Available seats: 5/7
 	Instructor:     Zeph Prissy Spalding
+
+	Student #1: Ruthie Bernadine Hanley	S010
+	Student #2: Camille Alfred Emmett	S009
 , Session Id: 1A234	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1A345	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1A456	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1A567	Available seats: 7/7
 	Instructor:     N/A
+
 ]]
 
 

@@ -12,14 +12,19 @@ Cancelled status:     true
 
 [Session Id: 1B123	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1B234	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1B345	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1B456	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1B567	Available seats: 7/7
 	Instructor:     N/A
+
 ]
 []
 
@@ -34,14 +39,19 @@ Cancelled status:     true
 
 [Session Id: 1C123	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1C234	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1C345	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1C456	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1C567	Available seats: 7/7
 	Instructor:     N/A
+
 ]
 []
 
@@ -56,14 +66,19 @@ Cancelled status:     true
 
 [Session Id: 1D123	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1D234	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1D345	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1D456	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 1D567	Available seats: 7/7
 	Instructor:     N/A
+
 ]
 []
 
@@ -78,14 +93,19 @@ Cancelled status:     true
 
 [Session Id: 4A123	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 4A234	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 4A345	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 4A456	Available seats: 7/7
 	Instructor:     N/A
+
 , Session Id: 4A567	Available seats: 7/7
 	Instructor:     N/A
+
 ]
 []
 
