@@ -78,22 +78,6 @@ public class Session implements Comparable<Session>{
         studentList = new ArrayList<>();
     }
 
-    /**
-     * Instantiates a new Session.
-     *
-     * @param student   the student
-     * @param sessionId the session id
-     * @param teacher   the teacher
-     * @throws Exception the exception
-     */
-    public Session(Student student, String sessionId, Faculty teacher) throws Exception
-    {
-        studentList = new ArrayList<>();
-        studentList.add(student);
-        setSessionId(sessionId);
-        setTeacher(teacher);
-    }
-
     // -------------------------------------------------------------------------
     // ACCESSORS - GETTER METHODS
     // -------------------------------------------------------------------------
@@ -230,6 +214,40 @@ public class Session implements Comparable<Session>{
     // -------------------------------------------------------------------------
 
     /**
+     * Check string value.
+     *
+     * @param valueString   the value string
+     * @param attributeName the attribute name
+     * @throws Exception the exception
+     */
+    protected void checkStringValue(String valueString, String attributeName) throws Exception {
+        if (valueString == null || valueString.trim().equals("")) {
+            throw new Exception(attributeName + " must be non-null and non-empty");
+        }
+    }
+
+    /**
+     * Update filled status.
+     */
+    public void updateFilledStatus()
+    {
+        isFilled = studentList.size() == maxStudentForSession;
+    }
+
+    /**
+     * Update cancelled status.
+     */
+    public void updateCancelledStatus()
+    {
+        isCancelled = studentList.size() < minStudentForSession;
+    }
+
+    public void updateStudentsInSession()
+    {
+        studentsInSession = studentList.size();
+    }
+
+    /**
      * Add course.
      *
      * @param studentToAdd the student to add
@@ -259,44 +277,6 @@ public class Session implements Comparable<Session>{
         updateStudentsInSession();
 
         return studentList.remove(studentToRemove);
-    }
-
-    /**
-     * Check string value.
-     *
-     * @param valueString   the value string
-     * @param attributeName the attribute name
-     * @throws Exception the exception
-     */
-    protected void checkStringValue(String valueString, String attributeName) throws Exception {
-        if (valueString == null || valueString.trim().equals("")) {
-            throw new Exception(attributeName + " must be non-null and non-empty");
-        }
-    }
-
-    public void setStudentsInSession(int studentsInSession) {
-        this.studentsInSession = studentList.size();
-    }
-
-    /**
-     * Update filled status.
-     */
-    public void updateFilledStatus()
-    {
-        isFilled = studentList.size() == maxStudentForSession;
-    }
-
-    /**
-     * Update cancelled status.
-     */
-    public void updateCancelledStatus()
-    {
-        isCancelled = studentList.size() < minStudentForSession;
-    }
-
-    public void updateStudentsInSession()
-    {
-        studentsInSession = studentList.size();
     }
 
     public String printSessionIdOnly()
@@ -361,6 +341,8 @@ public class Session implements Comparable<Session>{
         }
 
         build.append("\n");
+
+        build.append(printStudentList());
 
         return build.toString();
     }

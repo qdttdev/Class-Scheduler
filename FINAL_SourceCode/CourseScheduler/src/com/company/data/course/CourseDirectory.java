@@ -30,6 +30,10 @@ public class CourseDirectory {
         courseList = new ArrayList<>();
     }
 
+    // -------------------------------------------------------------------------
+    // ACCESSOR - GETTER METHODS
+    // -------------------------------------------------------------------------
+
     /**
      * Gets course list.
      *
@@ -48,7 +52,7 @@ public class CourseDirectory {
      *
      * @param comparator the comparator
      */
-    public void sort(Comparator<Course> comparator)
+    public void sortCourse(Comparator<Course> comparator)
     {
         courseList.sort(comparator);
     }
@@ -93,7 +97,6 @@ public class CourseDirectory {
      * @param course the course
      */
     public void removeCourse(Course course) {
-
         courseList.remove(course);
     }
 
@@ -107,6 +110,10 @@ public class CourseDirectory {
     {
         findCourse(courseId).generateSessionList(path);
     }
+
+    // -------------------------------------------------------------------------
+    // OUTPUT METHODS
+    // -------------------------------------------------------------------------
 
     /**
      * Print course w session string.

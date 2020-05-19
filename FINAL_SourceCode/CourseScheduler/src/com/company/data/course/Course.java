@@ -287,7 +287,7 @@ public class Course implements Comparable<Course> {
      *
      * @param comparator the comparator
      */
-    public void sort(Comparator<Session> comparator) {
+    public void sortSession(Comparator<Session> comparator) {
         sessionList.sort(comparator);
     }
 
@@ -325,13 +325,6 @@ public class Course implements Comparable<Course> {
     // -------------------------------------------------------------------------
 
     /**
-     * Generate id.
-     */
-    public void generateId() {
-        this.courseId = this.department + this.code;
-    }
-
-    /**
      * Check string value.
      *
      * @param valueString   the value string
@@ -342,6 +335,13 @@ public class Course implements Comparable<Course> {
         if (valueString == null || valueString.trim().equals("")) {
             throw new Exception(attributeName + " must be non-null and non-empty");
         }
+    }
+
+    /**
+     * Generate id.
+     */
+    public void generateId() {
+        this.courseId = this.department + this.code;
     }
 
     /**

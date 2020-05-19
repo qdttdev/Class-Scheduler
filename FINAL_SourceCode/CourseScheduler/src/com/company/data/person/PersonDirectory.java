@@ -46,11 +46,25 @@ public class PersonDirectory {
     // -------------------------------------------------------------------------
 
     /**
+     * Add person clone.
+     *
+     * @param person       the person
+     * @param newPersonTel the new person tel
+     * @throws Exception the exception
+     */
+    public void addPersonClone(@NotNull Person person, String newPersonTel) throws Exception
+    {
+        Person newPerson = (Person)person.clone();
+        newPerson.setTel(newPersonTel);
+        addPerson(newPerson);
+    }
+
+    /**
      * Sort.
      *
      * @param comparator the comparator
      */
-    public void sort(Comparator<Person> comparator)
+    public void sortPersonName(Comparator<Person> comparator)
     {
         personList.sort(comparator);
         facultyList.sort(comparator);
@@ -153,19 +167,6 @@ public class PersonDirectory {
         return build.toString();
     }
 
-    /**
-     * Add person clone.
-     *
-     * @param person       the person
-     * @param newPersonTel the new person tel
-     * @throws Exception the exception
-     */
-    public void addPersonClone(@NotNull Person person, String newPersonTel) throws Exception
-    {
-        Person newPerson = (Person)person.clone();
-        newPerson.setTel(newPersonTel);
-        addPerson(newPerson);
-    }
 
     /**
      * Gets faculty output data.

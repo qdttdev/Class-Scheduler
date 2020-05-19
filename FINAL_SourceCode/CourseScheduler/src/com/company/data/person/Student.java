@@ -147,6 +147,15 @@ public class Student extends Person {
         return scheduledStatus;
     }
 
+    /**
+     * Gets course scheduled list.
+     *
+     * @return the course scheduled list
+     */
+    public ArrayList<Course> getCourseScheduledList() {
+        return courseScheduledList;
+    }
+
     // -------------------------------------------------------------------------
     // MUTATORS - SETTER METHODS
     // -------------------------------------------------------------------------
@@ -207,15 +216,6 @@ public class Student extends Person {
     // -------------------------------------------------------------------------
     // FUNCTIONALITY METHODS
     // -------------------------------------------------------------------------
-
-    /**
-     * Gets course scheduled list.
-     *
-     * @return the course scheduled list
-     */
-    public ArrayList<Course> getCourseScheduledList() {
-        return courseScheduledList;
-    }
 
     /**
      * Generate course wish list.
@@ -319,29 +319,6 @@ public class Student extends Person {
         sessionScheduledList.remove(sessionToRemove);
         updateScheduledStatus();
         return sessionScheduledList.remove(sessionToRemove);
-    }
-
-    /**
-     * Output scheduled students.
-     */
-    public void outputScheduledStudents() {
-        int j = 0;
-        String sessionId;
-
-        StringBuilder build = new StringBuilder();
-
-        build.append(this.toString());
-
-        for (int i = 0; i < courseScheduledList.size(); i++) {
-            build.append("\nCourse Id: ");
-            build.append(courseScheduledList.get(i).getCourseId());
-
-            j = courseScheduledList.get(i).studentList.indexOf(this);
-            sessionId = courseScheduledList.get(i).sessionList.get(j).getSessionId();
-            build.append("\n\tSession Id: ");
-            build.append(sessionId);
-        }
-        System.out.println(build.toString());
     }
 
     // -------------------------------------------------------------------------
