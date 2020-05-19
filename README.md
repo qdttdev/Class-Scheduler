@@ -102,14 +102,19 @@ SESSIONS AVAILABLE FOR THIS COURSE
 ----------------------------------
 Session Id: 1A123	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A234	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A345	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A456	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A567	Available seats: 7/7
 	Instructor:     N/A
+
 
 Enter the Id of the Session you would like to teach: 1a123
 
@@ -118,14 +123,19 @@ SESSIONS FOR THIS COURSE IS UPDATED
 -----------------------------------
 Session Id: 1A123	Available seats: 7/7
 	Instructor:     Zeph Prissy Spalding
+
 Session Id: 1A234	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A345	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A456	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A567	Available seats: 7/7
 	Instructor:     N/A
+
 
 ----------------------------
 YOU ARE LOGGED IN AS FACULTY
@@ -168,14 +178,19 @@ SESSIONS AVAILABLE FOR THIS COURSE
 ----------------------------------
 Session Id: 1A123	Available seats: 7/7
 	Instructor:     Zeph Prissy Spalding
+
 Session Id: 1A234	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A345	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A456	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A567	Available seats: 7/7
 	Instructor:     N/A
+
 
 Enter the Id of the Session you would like to enroll: 1a123
 
@@ -184,14 +199,20 @@ SESSIONS FOR THIS COURSE IS UPDATED
 -----------------------------------
 Session Id: 1A123	Available seats: 6/7
 	Instructor:     Zeph Prissy Spalding
+
+	Student #1: Ruthie Bernadine Hanley	S010
 Session Id: 1A234	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A345	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A456	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A567	Available seats: 7/7
 	Instructor:     N/A
+
 
 ----------------------------
 YOU ARE LOGGED IN AS STUDENT
@@ -234,14 +255,20 @@ SESSIONS AVAILABLE FOR THIS COURSE
 ----------------------------------
 Session Id: 1A123	Available seats: 6/7
 	Instructor:     Zeph Prissy Spalding
+
+	Student #1: Ruthie Bernadine Hanley	S010
 Session Id: 1A234	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A345	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A456	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A567	Available seats: 7/7
 	Instructor:     N/A
+
 
 Enter the Id of the Session you would like to enroll: 1a123
 
@@ -250,14 +277,21 @@ SESSIONS FOR THIS COURSE IS UPDATED
 -----------------------------------
 Session Id: 1A123	Available seats: 5/7
 	Instructor:     Zeph Prissy Spalding
+
+	Student #1: Ruthie Bernadine Hanley	S010
+	Student #2: Camille Alfred Emmett	S009
 Session Id: 1A234	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A345	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A456	Available seats: 7/7
 	Instructor:     N/A
+
 Session Id: 1A567	Available seats: 7/7
 	Instructor:     N/A
+
 
 ----------------------------
 YOU ARE LOGGED IN AS STUDENT
@@ -383,6 +417,7 @@ WELCOME TO THE COURSE SCHEDULER
 Option: 0
 
 Process finished with exit code 0
+
 ```
 
 ### Output files
