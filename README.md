@@ -19,6 +19,10 @@ This application simulates a Course Scheduler in which students can enroll/unenr
 	* Person-related (student, faculty) implementations can be found at [/data/person](https://github.com/qdttdev/CS4A_Introduction_to_Java/tree/master/FINAL_SourceCode/CourseScheduler/src/com/company/data/person)
 ---
 
+## Class UML Diagram of the Program
+
+![CS4A_Final_Class_Diagram](https://user-images.githubusercontent.com/56989578/82286294-3abc2c00-9952-11ea-93ec-2c40851024e5.jpg)
+
 ## General Requirements for "Person" Information
 
 Everyone (both students and faculties) who attends the university has these following information:
